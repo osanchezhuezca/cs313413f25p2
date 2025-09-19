@@ -20,8 +20,8 @@ public class TestIterator {
 
   @Before
   public void setUp() throws Exception {
-    //list = new ArrayList<Integer>();
-      list = new LinkedList<>();
+    list = new ArrayList<Integer>();
+    //list = new LinkedList<>();
     // TODO Question: Also try with a LinkedList - does it make any difference?
       // No it does not make any difference at all, at least from the inital test pass/fail.
   }

@@ -12,11 +12,12 @@ TestList.java
 
 		list.remove(5); // what does this method do?
 
-			Your answer here.
+		      //removes the element at index 5 which is the third 77
+
 
 		list.remove(Integer.valueOf(5)); // what does this one do?
 
-			Your answer here.
+      //removes the first instance of the object int 5
 
 TestIterator.java
 
